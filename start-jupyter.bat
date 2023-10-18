@@ -1,1 +1,1 @@
-jupyter  notebook --notebook-dir="C:\Users\a818517\Documents\personal\python-notebook"
+jupyter  notebook --notebook-dir="C:\codebase\personal\python\notebook-github\python-notebook"
