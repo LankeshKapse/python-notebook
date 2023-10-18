@@ -1,0 +1,1 @@
+jupyter  notebook --notebook-dir="C:\Users\a818517\Documents\personal\python-notebook"
